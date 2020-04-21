@@ -1,4 +1,7 @@
 # NANTest
+
+** FIXED IN NEW NDK RELEASE (ndkVersion "21.1.6352462") **
+
 Reproduce NAN from native pow(x,y)
 
 NAN is returned with release build and exponent < 0.1
